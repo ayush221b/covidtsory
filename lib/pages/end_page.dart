@@ -49,7 +49,7 @@ class _EndPageState extends State<EndPage> {
               child: Text(
                 !theEnd
                     ? 'anything else..?'
-                    : 'Social Distancing, Tha\'s right, thanks!',
+                    : 'Social Distancing, That\'s right, thanks!',
                 style: TextStyle(fontSize: 32),
               ),
               onPressed: () {
